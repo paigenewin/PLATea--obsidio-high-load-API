@@ -1,5 +1,3 @@
-# PLATea+
-Track
 # Group Name: PLATea+ (Platypus)
 Group Member:
 + Nam Anh Trinh
